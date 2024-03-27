@@ -10,8 +10,6 @@ Built using:
 - CSS framework: React-bootstrap
 - CSS animations library: Animate.css
 
-In the /personal-portfolio, you can run:
-
 ### `npm run start`
 
 Runs the app in the development mode.\
